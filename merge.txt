@@ -1,1 +1,7 @@
-include<studi.h>
+include<studio.h>
+include<conio.h>
+Main (){
+Int a, b,c;
+c=a+b;
+print("c")
+}
